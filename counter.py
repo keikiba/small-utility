@@ -1,4 +1,5 @@
 
+
 class Singleton(type):
     # Hold an instance generated as Singleton
     _instances = {}
